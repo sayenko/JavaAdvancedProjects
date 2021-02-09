@@ -1,0 +1,7 @@
+2021-01-30 01:59:08 ERROR UserDaoImpl:152 - java.sql.SQLException: Illegal operation on empty result set.
+2021-01-30 01:59:29 ERROR UserDaoImpl:152 - java.sql.SQLException: Illegal operation on empty result set.
+2021-02-08 21:25:30 ERROR UserDaoImpl:152 - java.sql.SQLException: Illegal operation on empty result set.
+2021-02-08 21:25:32 ERROR UserDaoImpl:152 - java.sql.SQLException: Illegal operation on empty result set.
+2021-02-08 21:25:39 ERROR UserDaoImpl:152 - java.sql.SQLException: Illegal operation on empty result set.
+2021-02-08 21:25:49 ERROR UserDaoImpl:152 - java.sql.SQLException: Illegal operation on empty result set.
+2021-02-09 08:22:27 ERROR BuckedDaoImpl:47 - java.sql.SQLException: Field 'id' doesn't have a default value
