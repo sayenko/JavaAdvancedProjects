@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS data_jpa;
+CREATE DATABASE data_jpa CHAR SET utf8;
+USE data_jpa;
